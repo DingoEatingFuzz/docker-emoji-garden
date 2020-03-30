@@ -1,0 +1,16 @@
+{
+  "name": "docker-emoji-garden",
+  "version": "1.0.0",
+  "description": "An emoji garden, using @emmawinston's Tracery script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Lange",
+  "repository": "https://github.com/dingoeatingfuzz/docker-emoji-garden",
+  "license": "ISC",
+  "dependencies": {
+    "tracery-grammar": "^2.7.4"
+  }
+}
